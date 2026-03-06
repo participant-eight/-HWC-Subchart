@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 9
+    replicaCount: 2
     app:
       content: "GenX rules!"

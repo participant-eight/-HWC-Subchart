@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 9
+    replicaCount: 3
     app:
       content: "Solved"
